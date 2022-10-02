@@ -2,9 +2,7 @@
 
 ## Description
 
-The task is to establish a client server communication over a connected network of sockets.
-
-This project was build on macOS using c99 and will run on any UNIX or linux system.
+The task is to establish a client server communication over a connected network of sockets. The task is to host a game over a network. The game is unimportant and is simply sending text over the network.
 
 ### Run the makefile, Jimmy!:
 
